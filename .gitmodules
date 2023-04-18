@@ -8,8 +8,8 @@
   branch = main
 [submodule "ccpp/physics"]
   path = ccpp/physics
-  url = https://github.com/ufs-community/ccpp-physics
-  branch = ufs/dev
+  url = https://github.com/Jili-Dong/community-ccpp-physics.git 
+  branch = rrfsens_2023HWT 
 [submodule "upp"]
   path = upp
   url = https://github.com/NOAA-EMC/UPP
